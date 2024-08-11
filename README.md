@@ -19,7 +19,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Rabelahmed/testimonials-grid-section-main)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/testimonials-section-with-css-grid-drnKZPQvnl)
 - Live Site URL: [Live Site](https://rabelahmed.github.io/testimonials-grid-section-main/)
 
 ### Built with
