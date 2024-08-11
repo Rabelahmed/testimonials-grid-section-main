@@ -19,8 +19,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution](https://github.com/Rabelahmed/testimonials-grid-section-main)
+- Live Site URL: [Live Site](https://rabelahmed.github.io/testimonials-grid-section-main/)
 
 ### Built with
 
